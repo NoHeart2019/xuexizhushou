@@ -17,7 +17,13 @@
 文言文：
 		50余篇
 
+辞典：辞典来源于 台湾-国语辞典，收录了十六万多个字词。
 
+督促你的小孩在小学就背诵完这些古诗词和文言文。 
+从考试的角度来说。可以化整为零，考试降低古文丢分的概率 
+从人生的角度来说。早点接触这些有哲理的文言文。随着时间的成长，慢慢去体会其中的哲理。
+闲鱼: https://m.tb.cn/h.6OY0lcf?tk=Y8AEVeEmmFm 
+![image](Png/QuanXue-Dict.PNG)
 ![image](Png/First.PNG)
 ![image](Png/First1.PNG)
 ![image](Png/Task.PNG)
