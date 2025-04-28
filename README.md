@@ -17,11 +17,11 @@
 文言文：<br>
 		50余篇<br>
   
-###支持文言文和古诗的扩展<br>
-添加额外的古文，<br>
+### 支持文言文和古诗的扩展<br>
+添加古文，<br>
 方法1.新建后缀名为.Chapter文件(文件编码UTF-8)。拷贝到XueXiZhuShou\QuanXue目录下<br>
 方法2.找到XueXiZhuShou\QuanXue目录下，以.Chapter命名的文件。复制一份，修改文件名。拷贝文章内容即可。推荐此方法不用改编码格式。<br>
-方法3.给本人发邮件。著名要添加的文章。邮箱：XiaoHeLiuShui2025@outlook.com <br>
+方法3.给本人发邮件。注明要添加的文章。邮箱：XiaoHeLiuShui2025@outlook.com <br>
 例如 : 新加 荀子-修身.Chapter 拷贝到 XueXiZhuShou\QuanXue目录下，即可完成添加。重新启动程序显示成功。
 
 ## 学习助手-劝学版-辞典篇
