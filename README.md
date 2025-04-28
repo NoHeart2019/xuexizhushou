@@ -16,6 +16,14 @@
 	高中：40首<br>
 文言文：<br>
 		50余篇<br>
+  
+###支持文言文和古诗的扩展<br>
+添加额外的古文，<br>
+方法1.新建后缀名为.Chapter文件(文件编码UTF-8)。拷贝到XueXiZhuShou\QuanXue目录下<br>
+方法2.找到XueXiZhuShou\QuanXue目录下，以.Chapter命名的文件。复制一份，修改文件名。拷贝文章内容即可。推荐此方法不用改编码格式。<br>
+方法3.给本人发邮件。著名要添加的文章。邮箱：XiaoHeLiuShui2025@outlook.com <br>
+例如 : 新加 荀子-修身.Chapter 拷贝到 XueXiZhuShou\QuanXue目录下，即可完成添加。重新启动程序显示成功。
+
 ## 学习助手-劝学版-辞典篇
 辞典：辞典来源于 台湾-国语辞典，收录了十六万多个字词。<br>
 
@@ -23,6 +31,12 @@
 从考试的角度来说。可以化整为零，考试降低古文丢分的概率 <br>
 从人生的角度来说。早点接触这些有哲理的文言文。随着时间的成长，慢慢去体会其中的哲理。<br>
 闲鱼: https://m.tb.cn/h.6OY0lcf?tk=Y8AEVeEmmFm <br>
+
+未来功能：<br>
+1.还会继续加入，4000个成语。著名释义和典故。方便每日学习一个成语。<br>
+其他功能待定<br>
+
+
 ![image](Png/QuanXue-Dict.PNG)
 ![image](Png/First.PNG)
 ![image](Png/First1.PNG)
