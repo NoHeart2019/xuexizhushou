@@ -36,7 +36,7 @@
 1.还会继续加入，4000个成语。著名释义和典故。方便每日学习一个成语。<br>
 其他功能待定<br>
 
-
+![image](Png/XiuXing.PNG)
 ![image](Png/QuanXue-Dict.PNG)
 ![image](Png/First.PNG)
 ![image](Png/First1.PNG)
