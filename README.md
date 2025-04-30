@@ -43,6 +43,7 @@
 修行-书籍.7z 网上搜集的EPUB格式书籍，解压到XueXiZhuShou\XiuXing目录就可以了。但请支持正版
 
 ![image](Png/XiuXing.PNG)
+![image](Png/XiuXing2.0.PNG)
 ![image](Png/QuanXue-Dict.PNG)
 ![image](Png/First.PNG)
 ![image](Png/First1.PNG)
