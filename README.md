@@ -41,6 +41,7 @@
 佛经： 心经，金刚经，坛经。
 道：道德经。
 修行-书籍.7z 网上搜集的EPUB格式书籍，解压到XueXiZhuShou\XiuXing目录就可以了。但请支持正版
+![image](Png/JiuZhang.PNG)
 ![image](Png/MaoXuan.png)
 ![image](Png/XiuXing.PNG)
 ![image](Png/XiuXing2.0.PNG)
